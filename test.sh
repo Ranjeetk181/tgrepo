@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-while True
+while True:
  do
    sleep 1
  done
